@@ -9,7 +9,7 @@ const Index = () => {
           <Image borderRadius="full" src="https://images.unsplash.com/photo-1712847331925-bf0e3fd2b7ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MXwxfHNlYXJjaHwxfHxwb3J0cmFpdHxlbnwwfHx8fDE3MTc2ODkxNDB8MA&ixlib=rb-4.0.3&q=80&w=1080" alt="Profile Picture" />
         </Box>
         <Heading as="h1" size="2xl">
-          John Doe
+          Zachary
         </Heading>
         <Text fontSize="xl" textAlign="center">
           Full Stack Developer | JavaScript Enthusiast | Open Source Contributor
@@ -27,7 +27,7 @@ const Index = () => {
         </HStack>
         <Box textAlign="center">
           <Text fontSize="md" mt={4}>
-            Hi, I'm John Doe, a passionate developer with experience in building web applications using modern technologies. I love to learn, share knowledge, and contribute to open source projects.
+            Hi, I'm Zachary, a passionate developer with experience in building web applications using modern technologies. I love to learn, share knowledge, and contribute to open source projects.
           </Text>
         </Box>
       </VStack>
